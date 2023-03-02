@@ -1,0 +1,24 @@
+1º Problema: Padrão de usabilidade - Consistency and Standards
+
+- Quando se dá hold nos botões expandíveis, não está dentro dos padrões usuais de usabilidade a forma de sair do estado de seleção.
+Para de-selecionar o botão, não dá para simplesmente clicar na zona acinzentada ou no botão de "return" no telemóvel,
+é necessário clicar no botão novamente.
+
+Gravidade: 2
+
+
+2º Problema: Mensagens de erro - Error prevention/System Status Clarity
+
+- Quando não temos internet e tentamos utilizar a app, não há nenhuma mensagem de erro para saber o estado do sistema, nem nenhum
+tipo de 'error message'.
+
+Gravidade: 4
+
+
+3º Problema: Nome "Administrativos" não é intuitivo - Consistency and Standards
+
+- Quando alguem quer informação sobre um certo serviço administrativo/académico, não é intuitivo clicar em "administrativos",
+isto dá a entender que é algo relacionado com o staff da universidade e não os horários dos serviços.
+
+
+Gravidade: 1

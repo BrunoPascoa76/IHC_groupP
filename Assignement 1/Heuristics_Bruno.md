@@ -12,8 +12,8 @@ This app is mostly read-only, so there's not a lot that the user needs an "emerg
 # #4 Consistency: 1
 Although the menu being assigned that icon and being on the top-left corner is very consistent, the home icon not being a house breaks consistency, as well as the fact that it doesn't only serve to bring you to the homepage. Furthermore, when choosing "events" for example, the icon changes, and the home button is now hidden behind a long press. An easilty identifiable home button that is always available is web design 101.
 
-# #5 Error prevention: 0
-Since non-user errors don't appear to count, then you can't prevent errors, if the user can't do anything to cause them.
+# #5 Error prevention: 4
+If they can't even prevent their own, the preventing other's is a pipe dream.
 
 # #6 Recognition: 2/3
 Long steps for the most used tasks, home buttons that are unfamiliar and sometimes hidden makes recognition harder. The only saving grace is you can always just use the menu and read the labels. If you're not an Erasmus student, that is.

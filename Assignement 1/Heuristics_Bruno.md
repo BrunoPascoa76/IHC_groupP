@@ -27,5 +27,5 @@ There's unnecessary information on the homepage but it's not in the way, as the 
 # #9 Error messages: 3
 You'd think a buggy app would have some type of error message but noooo, we just have to go by trial-and-error just to get it to start.
 
-# #10 Help: 3
+# #10 Help: 4
 No help, no feedback, nothing, the only way to get help is to ask other users in person. There's not even a way for users to share their problems with other users.

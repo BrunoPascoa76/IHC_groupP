@@ -1,31 +1,25 @@
 # Heuristics
 
-# #1 Reporting System status: 2
-When having connection problems while using the app, it instead keeps buffering instead of reporting lack of connection.
+Problem 1: When having connection problems, it buffers instead of reporting lack of connectivity
+H#1 (reporting system status): 2
 
-# #2 Match between the system and the real world: ? (1)
-I have no idea on this one, though the grouping could use some work (the home button should not be grouping anything, as it is considered a "special button")
+Problem 2: Home button isn't always available (if you select something else from its group) and the icon isn't a house
+H#2 (Match between the system and the real world): 1
+H#4 (Consistency): 1
 
-# #3 User Freedom: 0
-This app is mostly read-only, so there's not a lot that the user needs an "emergency exit" for, although it has a home button.
+Problem 3: Login and errors while fecthing information, and no attempts have been made to detect them, let alone prevent or solve them.
+H#5 (error prevention): 4
 
-# #4 Consistency: 1
-Although the menu being assigned that icon and being on the top-left corner is very consistent, the home icon not being a house breaks consistency, as well as the fact that it doesn't only serve to bring you to the homepage. Furthermore, when choosing "events" for example, the icon changes, and the home button is now hidden behind a long press. An easilty identifiable home button that is always available is web design 101.
+Problem 4: No customization besides the main menu (which is rarely used). Customizing the default tab when entering a subject would be more useful.
+H#7 (Flexibility): 1
 
-# #5 Error prevention: 4
-If they can't even prevent their own, the preventing other's is a pipe dream.
+Problem number 5: No option to change to english
+H#7 (Flexibility): 1
+H#6 (Recognition): 2
 
-# #6 Recognition: 2/3
-Long steps for the most used tasks, home buttons that are unfamiliar and sometimes hidden makes recognition harder. The only saving grace is you can always just use the menu and read the labels. If you're not an Erasmus student, that is.
+Problem number 6: Complete lack of error reporting, especiall for such a buggy app.
+H#9 (Error message): 3
+H#10 (Help): 2
 
-# #7 Flexibilty: 1/2
-Customize the homepage. That's it. They could at least allow use to choose which information about a subject appears first, as we often go there for exams/time slots.
-
-# #8 Minimalism: 0/1
-There's unnecessary information on the homepage but it's not in the way, as the users rarely use the homepage anyways
-
-# #9 Error messages: 3
-You'd think a buggy app would have some type of error message but noooo, we just have to go by trial-and-error just to get it to start.
-
-# #10 Help: 4
-No help, no feedback, nothing, the only way to get help is to ask other users in person. There's not even a way for users to share their problems with other users.
+Problem number 7: Complete lack of any sort of help. The only trace of this app's existance is the app itself.
+H#10 (Help): 4

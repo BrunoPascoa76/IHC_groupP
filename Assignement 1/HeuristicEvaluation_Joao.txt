@@ -4,7 +4,7 @@
 Para de-selecionar o botão, não dá para simplesmente clicar na zona acinzentada ou no botão de "return" no telemóvel,
 é necessário clicar no botão novamente.
 
-Gravidade: 2
+Gravidade: 2 Bruno: 1
 
 
 2º Problema: Mensagens de erro - Error prevention/System Status Clarity
@@ -12,7 +12,7 @@ Gravidade: 2
 - Quando não temos internet e tentamos utilizar a app, não há nenhuma mensagem de erro para saber o estado do sistema, nem nenhum
 tipo de 'error message'.
 
-Gravidade: 4
+Gravidade: 4 Bruno: 4
 
 
 3º Problema: Nome "Administrativos" não é intuitivo - Consistency and Standards
@@ -21,4 +21,4 @@ Gravidade: 4
 isto dá a entender que é algo relacionado com o staff da universidade e não os horários dos serviços.
 
 
-Gravidade: 1
+Gravidade: 1 Bruno: 1

@@ -1,0 +1,39 @@
+1.	Login menu without WIFI – Score 2
+Violates the 1st heuristic (Visibility of sistem Status).. When a person opens the app and tries to login without having network access the user doesn’t get appropriate feedback… They don’t realize if their first action did or did not go through… The user sees that something happens it isn’t quite sure what happens because the change of text is so fast
+Violates the 5th heuristic because some error clearly happened but we don’t know why. It isn’t shown an appropriate error message. This is even worse because this error right here is what we call a mistake. We did ment to press button but there is a mismatch between the user’s mental model (what the user thought it was going to happen) and the design.
+2.	Login menu with WIFI when default browser is firefox browser or opera (it wasn’t the same exact issue) for example (we tried chrome, edge, brave and they all seemed to work fine) – Score 4
+Violates the 1st heuristic (Visibility of sistem Status).. When a person opens the app and logs in… Doesn’t  happen the same has before. The user is aware of the consequences of its actions but then… NOTHING APPEARS TO HAPPEN…. We clearly can’t be 10+ minutes waiting on a login screen… 
+3.	Didn’t find a way to change language (is it an heuristic violation or just lacks the feature?) – Score 4
+Consistency, Industry conventions and flexibility , costumizability
+4.	In some items we feel like that the system doesn’t have enough explanation of how things are really done – Score 2
+There isn’t an help documentation… There is a tutorial but tutorials are usually ignored.. And if I forget something the only way to repeat the tutorial is to uninstall and install the app again
+5.	Payments tab some error don’t know why… I didn’t pay this years tuition in monthly payments… Why is it saying I did… And what’s this code right here 8295_2022_10 – Score 2
+Violation of 2nd heuristic the design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Any normal person wouldn’t know what’s 8295 means.
+8295 – course code 
+2022 – year of payment 
+10	– subject
+It’s just a detail but I didn’t pay my tuition in monthly payments
+2021 – correct; 2022 – not correct 
+
+6.	Bold green text on events – Score 1
+Violates the 4th heuristic (consistency and standards)… Within this product within this have we only have seen green selected text one time…. Chosen task is always green… So why is this text green.. I didn’t select it… I thought maybe it was because it’s a on going event… But look here… This also is an ongoing event and it’s not marked
+7.	Can’t add event to calendar and there isn’t an error message nor feedback – Score 3
+Violates 1st heuristic
+Violates 5th heuristic
+System status
+Error prevention
+8.	Academia – horários – Score 3
+Violates 4th heuristic 
+Consistency – appear first semester then second semester than first semester again
+It’s selected all but these aren’t all my subjects from 1 and a half years of university
+Filters don’t work xD (how is that even possible)
+I don’t have annual subjects so this is not supost to work but it isn’t consistent (it works but still there isn’t an error image saying I don’t have these annual classes – violates  5th heuristic)
+9.	Initial view customization sucks – Score 2
+Can’t remove widgets from this menu.. Interface isn’t clear enough… I’m sure there is some heuristic this violates
+10.	Payment bug if you swipe (screen recorder on my phone – hope it’s just not in my phone) – Score 2 (because it’s still usable)
+
+
+  
+Provide context…
+Explain the method before using it and explaining the results (regarding heuristic)
+Select the worst violations to present 

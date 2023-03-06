@@ -15,7 +15,7 @@ tipo de 'error message'.
 Gravidade: 4 Bruno: 4
 
 
-3º Problema: Nome "Administrativos" não é intuitivo - Consistency and Standards
+3º Problema: Nome "Administrativos" não é intuitivo - Consistency and Standards (BP note: isn't this more #2, which says "The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon.")
 
 - Quando alguem quer informação sobre um certo serviço administrativo/académico, não é intuitivo clicar em "administrativos",
 isto dá a entender que é algo relacionado com o staff da universidade e não os horários dos serviços.

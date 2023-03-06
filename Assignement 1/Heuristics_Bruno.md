@@ -1,7 +1,7 @@
 # Heuristics
 
 Problem 1: When having connection problems, it buffers instead of reporting lack of connectivity
-H#1 (reporting system status): 2
+H#1 (reporting system status): 3
 H#5 (error prevention): 4
 
 Problem 2: Home button isn't always available (if you select something else from its group) and the icon isn't a house

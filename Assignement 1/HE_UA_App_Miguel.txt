@@ -4,13 +4,15 @@ Violates the 5th heuristic because some error clearly happened but we don’t kn
 
 2.	Login menu with WIFI when default browser is firefox browser or opera (it wasn’t the same exact issue) for example (we tried chrome, edge, brave and they all seemed to work fine) – Score 4 Bruno: 4
 Violates the 1st heuristic (Visibility of sistem Status).. When a person opens the app and logs in… Doesn’t  happen the same has before. The user is aware of the consequences of its actions but then… NOTHING APPEARS TO HAPPEN…. We clearly can’t be 10+ minutes waiting on a login screen… 
+
 3.	Didn’t find a way to change language (is it an heuristic violation or just lacks the feature?) – Score 4 Bruno:2
-Consistency, Industry conventions and flexibility , costumizability
+Consistency, Industry conventions and flexibility , costumizability (BP note: 4 on all of them?)
 
 4.	In some items we feel like that the system doesn’t have enough explanation of how things are really done – Score 2 Bruno: 2
-There isn’t an help documentation… There is a tutorial but tutorials are usually ignored.. And if I forget something the only way to repeat the tutorial is to uninstall and install the app again
+There isn’t an help documentation… There is a tutorial but tutorials are usually ignored.. And if I forget something the only way to repeat the tutorial is to uninstall and install the app again (H#10 help, I suppose)
 
-5.	Payments tab some error don’t know why… I didn’t pay this years tuition in monthly payments… Why is it saying I did… And what’s this code right here 8295_2022_10 – Score 2 Bruno: 1 (BP note: that's how it's handled internaly for consistency's sake, I think, i.e. not the app's fault it's the school system that makes it that way to make processing easier)
+5.	Payments tab some error don’t know why… I didn’t pay this years tuition in monthly payments… Why is it saying I did… (BP Note: Which heuristic is this and how bad is it)
+(BPnote: Separate problem:) And what’s this code right here 8295_2022_10 – Score 2 Bruno: 1 (BP note: that's how it's handled internaly for consistency's sake, I think, i.e. not the app's fault it's the school system that makes it that way to make processing easier)
 Violation of 2nd heuristic the design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Any normal person wouldn’t know what’s 8295 means.
 8295 – course code 
 2022 – year of payment 
@@ -21,18 +23,19 @@ It’s just a detail but I didn’t pay my tuition in monthly payments
 6.	Bold green text on events – Score 1 Bruno: 0
 Violates the 4th heuristic (consistency and standards)… Within this product within this have we only have seen green selected text one time…. Chosen task is always green… So why is this text green.. I didn’t select it… I thought maybe it was because it’s a on going event… But look here… This also is an ongoing event and it’s not marked
 
-7.	Can’t add event to calendar and there isn’t an error message nor feedback – Score 3 Bruno: 3
+
+7.	Can’t add event to calendar and there isn’t an error message nor feedback – Score 3 Bruno: 3 (BP note: there's... no option to add events, and if that's what you're trying to say, then the rest is an entirely separate problem)
 Violates 1st heuristic
 Violates 5th heuristic
 System status
 Error prevention
-8.	Academia – horários – Score 3 Bruno: 2
+8.	Academia – horários – Score 3 Bruno: 1
 Violates 4th heuristic 
 Consistency – appear first semester then second semester than first semester again
 
-It’s selected all but these aren’t all my subjects from 1 and a half years of university (BP Note: that's the databse's/school system's fault, not the app's)
-Filters don’t work xD (how is that even possible) (BP Note: how are you still impressed at this point)
-I don’t have annual subjects so this is not supost to work but it isn’t consistent (it works but still there isn’t an error image saying I don’t have these annual classes – violates  5th heuristic) (BP note: ?????)
+It’s selected all but these aren’t all my subjects from 1 and a half years of university (BP Note: what is the heuristic and the score?)
+Filters don’t work xD (how is that even possible) (BP Note: how are you still impressed at this point) (BP Note: read previous note, I'll suppose numbe)
+I don’t have annual subjects so this is not supost to work but it isn’t consistent (it works but still there isn’t an error image saying I don’t have these annual classes – violates  5th heuristic) (BP note: what is the score of all of these? also I'll suppose you meant heuristic #9 error message instead of #5 error prevention (#9's example is literally a wrong way sign))
 
 9.	Initial view customization sucks – Score 2 Bruno: 2 (BP Note: youn can customize how many time you spend trying to customize stuff xD)
 Can’t remove widgets from this menu.. Interface isn’t clear enough… I’m sure there is some heuristic this violates

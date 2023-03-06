@@ -22,4 +22,4 @@ H#9 (Error message): 3
 H#10 (Help): 2
 
 Problem number 7: Complete lack of any sort of help. The only trace of this app's existance is the app itself.
-H#10 (Help): 4
+H#10 (Help): 2

@@ -2,16 +2,17 @@
 
 Problem 1: When having connection problems, it buffers instead of reporting lack of connectivity
 H#1 (reporting system status): 2
+H#5 (error prevention): 4
 
 Problem 2: Home button isn't always available (if you select something else from its group) and the icon isn't a house
 H#2 (Match between the system and the real world): 1
 H#4 (Consistency): 1
 
-Problem 3: errors on login and while fecthing information, and no attempts have been made to detect them, let alone prevent or solve them.
+Problem 3: errors on login and while fecthing information, and no attempts have been made to detect them, let alone prevent or solve them. (duplicate of problem 3)
 H#5 (error prevention): 4
 
 Problem 4: No customization besides the main menu (which is rarely used). Customizing the default tab when entering a subject would be more useful.
-H#7 (Flexibility): 1
+H#7 (Flexibility): 2
 
 Problem number 5: No option to change to english
 H#7 (Flexibility): 1

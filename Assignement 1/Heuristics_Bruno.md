@@ -8,9 +8,6 @@ Problem 2: Home button isn't always available (if you select something else from
 H#2 (Match between the system and the real world): 1
 H#4 (Consistency): 1
 
-Problem 3: errors on login and while fecthing information, and no attempts have been made to detect them, let alone prevent or solve them. (duplicate of problem 3)
-H#5 (error prevention): 4
-
 Problem 4: No customization besides the main menu (which is rarely used). Customizing the default tab when entering a subject would be more useful.
 H#7 (Flexibility): 2
 

@@ -14,4 +14,9 @@ Experience:
 # Scenarios:
 
 ## Scenario 1: Shopping List
-Harrison wants to go shopping, so he creates a new shopping lists and adds items to the list. He then checks the shopping list at the app and, after finishing, he scans the barcode to get the price.
+Harrison wants to go shopping, so he creates a new shopping lists and adds items to the list. He then checks the shopping list at the app and, after finishing, he scans the qr code to get the price. Since Harrison's app is associated with MB Way through his phone number, the transaction is automatically processed.
+
+## Scenario 2: Buying bus ticket
+Harrison is going back home from work, so catches the bus and pays the driver with money. While he's waiting, he adds the ticket cost to the app.
+
+## Scenario 3: Adding a family member

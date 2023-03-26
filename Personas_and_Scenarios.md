@@ -74,7 +74,7 @@ The app shouldn't allow non-administrators to add/remove accounts/cards.
 The app should work on android and IOS.  
 The app should have a secure connection with MB WAY.
 The app should respond in less than 1s, even when dealing with large volumes of information.
-The app should be available in Portuguese, our target audience's main language.
+The app should be available in English in order to reach a broader user base.
 The app should use simple and easy to use language, in order to make it more intuitive to learn.
   
  
